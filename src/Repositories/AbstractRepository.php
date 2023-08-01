@@ -1,6 +1,6 @@
 <?php
 
-namespace RocktoonDevelop\LaravelExpansion\Repositories;
+namespace Rocktoondevelop\LaravelExpansion\Repositories;
 
 abstract class AbstractRepository
 {

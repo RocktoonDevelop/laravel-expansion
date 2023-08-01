@@ -21,8 +21,8 @@
     },
     "autoload": {
         "psr-4": {
-            "RocktoonDevelop\\LaravelExpansion\\": "src/"
+            "Rocktoondevelop\\LaravelExpansion\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
