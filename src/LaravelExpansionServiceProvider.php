@@ -2,9 +2,9 @@
 
 namespace Rocktoon\LaravelExpansion;
 
+use Rocktoon\LaravelExpansion\Commands\LaravelExpansionCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Rocktoon\LaravelExpansion\Commands\LaravelExpansionCommand;
 
 class LaravelExpansionServiceProvider extends PackageServiceProvider
 {
